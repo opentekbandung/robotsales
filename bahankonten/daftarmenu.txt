@@ -1,0 +1,105 @@
+Silahkan di coba ada masakan makanan apa saja yang kami sediakan;
+
+DAFTAR MENU + HARGA Masakan MINANG-SEDAP yang siap dipesan dan diantar
+(Silahkan ketik "/daftarmenu" untuk minta kami kirimkan seluruh daftar-menu selengkapnya).
+
+- Paket Nasi-Bungkus->"Nasi-putih": Harga Rp.6000.
+- Paket Nasi-Bungkus->"Nasi-tambahan": Harga Rp.5000.
+- Paket Nasi-Bungkus->"Nasi Sayur": Harga Rp.8000.
+- Paket Nasi-Bungkus->"Nasi Tempe": Harga Rp.9000.
+- Paket Nasi-Bungkus->"Nasi Telur-gulai": Harga Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Telur-dadar": Harga Rp.10000.
+- Paket Nasi-Bungkus->"Nasi Perkedel": Harga Rp.10000.
+- Paket Nasi-Bungkus->"Nasi Ampela-goreng-balado": Harga Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ampela-gulai": Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ayam-goreng": Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ayam-bakar": Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ayam-balado": Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ikan-Kembung-bakar": Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ikan-Kembung-goreng": Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ikan-Kakap-gulai": Rp.14000.
+- Paket Nasi-Bungkus->"Nasi Ikan-Mujair": Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Usus/Babat": Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Hati/Limpa": Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Teri-Terong-CabeIjo": Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Bawal-bakar": Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Ikan-Lele-goreng": Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Ikan-Mas-goreng": Rp.15000.
+- Paket Nasi-Bungkus->"Nasi Rendang": Harga Rp.16000.
+- Paket Nasi-Bungkus->"Nasi Udang-balado": Rp.16000.
+- Paket Nasi-Bungkus->"Nasi Otak-gulai": Rp.16000.
+- Paket Nasi-Bungkus->"Nasi Paru": Rp.16000.
+- Paket Nasi-Bungkus->"Nasi Udang+Pete": Rp.16000.
+- Paket Nasi-Bungkus->"Nasi Pete+Kentang-balado": Rp.16000.
+- Paket Nasi-Bungkus->"Nasi Ayam-cabe-ijo": Rp.16000.
+- Paket Nasi-Bungkus->"Nasi Dendeng": Rp.18000.
+- Paket Nasi-Bungkus->"Nasi Kikil/Tunjang": Rp.19000.
+- Paket Nasi-Bungkus->"Nasi Cincang-sapi": Rp.20000.
+- Paket Nasi-Bungkus->"Nasi Cumi-gulai": Rp.25000.
+- Paket Nasi-Bungkus->"Nasi Kepala-Kakap-gulai": Rp.35000.
+
+- Paket Nasi-Box->"Nasi Ayam+Sayur+Sambel": Rp.17000.
+- Paket Nasi-Box->"Nasi Ikan+Sayur+Sambel": Rp.17000.
+- Paket Nasi-Box->"Nasi Rendang+Sayur+Sambel": Rp.18000.
+- Paket Nasi-Box->"Nasi Ayam+Telor+Sayur+Sambel": Rp.23000.
+- Paket Nasi-Box->"Nasi Ayam+Perkedel+Sayur+Sambel": Rp.23000.
+- Paket Nasi-Box->"Nasi Rendang+Telor+Sayur+Sambel": Rp.24000.
+- Paket Nasi-Box->"Nasi Rendang+Perkedel+Sayur+Sambel": Rp.24000.
+- Paket Nasi-Box->"Nasi Ayam+Kerupuk+Pisang+Sayur+Sambel": Rp.22000.
+- Paket Nasi-Box->"Nasi Ikan+Kerupuk+Pisang+Sayur+Sambel": Rp.22000.
+- Paket Nasi-Box->"Nasi Rendang+Kerupuk+Pisang+Sayur+Sambel": Rp.24000.
+- Paket Nasi-Box->"Nasi Ayam+Rendang+Sayur+Sambel": Rp.29000.
+- Paket Nasi-Box->"Nasi Ikan+Perkedel+Sayur+Sambel": 23000.
+- Paket Nasi-Box->"Nasi Ayam+Perkedel+Sayur+Sambel": Rp.23000.
+- Paket Nasi-Box->"Nasi Ayam+Kerupuk+Pisang+Aqua+Sayur+Sambel": Rp.23000.
+- Paket Nasi-Box->"Nasi Ikan+Kerupuk+Pisang+Aqua+Sayur+Sambel": Rp.23000.
+- Paket Nasi-Box->"Nasi Rendang+Kerupuk+Pisang+Aqua+Sayur+Sambel": Rp.24000.
+
+- Menu-tambahan per potong->"Lalap+Sambel": Rp.4000.
+- Menu-tambahan per potong->"Terong": Rp.5000.
+- Menu-tambahan per potong->"Emping Kerupuk-kulit": Rp.5000.
+- Menu-tambahan per potong->"Sayur": Rp.5000.
+- Menu-tambahan per potong->"Telur-gulai": Rp.6000.
+- Menu-tambahan per potong->"Telur-dadar": Rp.6000.
+- Menu-tambahan per potong->"Perkedel": Rp.6000.
+- Menu-tambahan per potong->"Ampela-goreng-balado": Rp.11000.
+- Menu-tambahan per potong->"Ampela-gulai": Rp.11000.
+- Menu-tambahan per potong->"Ayam-gulai": Rp.11000.
+- Menu-tambahan per potong->"Ayam-goreng": Rp.11000.
+- Menu-tambahan per potong->"Ayam-bakar": Rp.11000.
+- Menu-tambahan per potong->"Ayam-balado": Rp.11000.
+- Menu-tambahan per potong->"Ikan-Kembung-bakar": Rp.11000.
+- Menu-tambahan per potong->"Ikan-Kembung-goreng": Rp.11000.
+- Menu-tambahan per potong->"Ikan-Kakap-gulai": Rp.11000.
+- Menu-tambahan per potong->"Ikan-Mujair": Rp.12000.
+- Menu-tambahan per potong->"Usus/Babat": Rp.12000.
+- Menu-tambahan per potong->"Hati/Limfa": Rp.12000.
+- Menu-tambahan per potong->"Teri+Terong+ cabe-ijo": Rp.12000.
+- Menu-tambahan per potong->"Bawal-bakar": Rp.12000.
+- Menu-tambahan per potong->"Ikan-Lele-goreng": Rp.12000.
+- Menu-tambahan per potong->"Ikan-Mas-goreng": Rp.12000.
+- Menu-tambahan per potong->"Rendang": Harga Rp.12000.
+- Menu-tambahan per potong->"Udang-balado": Rp.12000.
+- Menu-tambahan per potong->"Otak-gulai": Rp.12000.
+- Menu-tambahan per potong->"Paru": Rp.12000.
+- Menu-tambahan per potong->"Udang+Pete": Rp.13000.
+- Menu-tambahan per potong->"Pete+Kentang balado": Rp.13000.
+- Menu-tambahan per potong->"Ayam-cabe-ijo": Rp.13000.
+- Menu-tambahan per potong->"Dendeng": Rp.15000.
+- Menu-tambahan per potong->"Kikil/Tunjang": Rp.15000.
+- Menu-tambahan per potong->"Cincang-Sapi": Rp.17000.
+- Menu-tambahan per potong->"Cumi-gulai": Rp.22000.
+- Menu-tambahan per potong->"Kepala-Kakap-gulai": Rp.25000.
+
+- Minuman->"Es-Jeruk": Rp.10000.
+- Minuman->"Es Teh-manis": Rp.5000.
+- Minuman->"Es Tawar": Rp.2000.
+- Minuman->"Aqua ukuran-sedang": Rp.5000.
+- Minuman->"Aqua ukuran-gede": Rp.7000.
+- Minuman->"Kopi-Susu": Rp.5000.
+- Minuman->"Juice-Alpukat": Rp.10000.
+- Minuman->"Juice-Pepaya": Rp.10000.
+- Minuman->"Juice-Melon": Rp.10000.
+- Minuman->"Juice-Mangga": Rp.10000.
+- Minuman->"Kopi-hitam": Rp.5000.
+- Minuman->"Teh-manis": Rp.5000.

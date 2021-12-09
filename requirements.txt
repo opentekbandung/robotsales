@@ -1,0 +1,9 @@
+nltk
+Flask
+gunicorn
+numpy
+sklearn
+matplotlib
+flask_wtf
+wtforms_components
+pyTelegramBotAPI==3.6.7
