@@ -1,0 +1,4 @@
+popular
+punkt
+wordnet
+corpora
