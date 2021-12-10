@@ -1,0 +1,16 @@
+.rapihkiri {
+    float: left;
+    text-align: left;
+    clear: none;
+}
+.rapihkanan {
+    float: right;
+    text-align: right;
+    clear: none;
+}
+
+table .tabelrapat 
+	th, td {
+		padding: 0;
+		border-spacing: 0;
+}
