@@ -1,1 +1,1 @@
-web: gunicorn webbasicchatbot:app1 --log-file -
+web: gunicorn webbasicchatbot:app1
