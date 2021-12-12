@@ -1,1 +1,1 @@
-web: gunicorn worker: python webbasicchatbot.py
+worker: python webbasicchatbot.py
