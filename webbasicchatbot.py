@@ -333,13 +333,13 @@ if __name__ == '__main__':
     nltk.download("punkt")
     nltk.download("wordnet")
     nltk.download("corpus")
-    telegram_polling = threading.Thread(name='daemon-myrobotresto', target=telegram_polling)
-    telegram_polling.setDaemon(True)
-    telegram_polling.x=1
-    telegram_polling.start()
-    telegram_polling.join(6)
-    if (telegram_polling.is_alive() == True ):
-        print("RobotChat is running as a daemon->" + str(telegram_polling.is_alive() ) )
+    mytelegram_polling = threading.Thread(name='daemon-myrobotresto', target=telegram_polling)
+    mytelegram_polling.setDaemon(True)
+    mytelegram_polling.x=1
+    mytelegram_polling.start()
+    mytelegram_polling.join(6)
+    if (mytelegram_polling.is_alive() == True ):
+        print("RobotChat is running as a daemon->" + str(mytelegram_polling.is_alive() ) )
         app1.debug = True
         #app1.run(host="127.0.0.1", port=5000, threaded=True)
         porthttp = int(os.environ.get("PORT", 5000))
