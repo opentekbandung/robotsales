@@ -337,7 +337,7 @@ if __name__ == '__main__':
     mytelegram_polling.setDaemon(True)
     mytelegram_polling.x=1
     mytelegram_polling.start()
-    #mytelegram_polling.join(6)
+    mytelegram_polling.join(6)
     if (mytelegram_polling.is_alive() == True ):
         print("RobotChat is running as a daemon->" + str(mytelegram_polling.is_alive() ) )
         app1.debug = True
