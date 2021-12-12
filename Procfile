@@ -1,1 +1,1 @@
-web: python webbasicchatbot.py
+worker: python webbasicchatbot.py
